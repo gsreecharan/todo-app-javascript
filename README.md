@@ -42,7 +42,7 @@ This project demonstrates core DOM manipulation and frontend state management wi
 ### Local Setup
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/gsreecharan/todo-app-javascript.git](https://github.com/gsreecharan/todo-app-javascript.git)
+   git clone https://github.com/gsreecharan/todo-app-javascript.git
    cd todo-app-javascript
    ```
 2. Open `index.html` directly in any web browser, or launch it using the VS Code Live Server extension.
