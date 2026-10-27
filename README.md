@@ -34,3 +34,21 @@ This project demonstrates core DOM manipulation and frontend state management wi
 ├── index.html          # Semantic document structure
 ├── style.css           # UI styling and layout constraints
 └── README.md           # Project documentation
+
+---
+
+## Getting Started
+
+### Local Setup
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/gsreecharan/todo-app-javascript.git](https://github.com/gsreecharan/todo-app-javascript.git)
+   cd todo-app-javascript
+   ```
+2. Open `index.html` directly in any web browser, or launch it using the VS Code Live Server extension.
+
+---
+
+## Author
+
+- **G. Sree Charan** — [GitHub](https://github.com/gsreecharan)
